@@ -1,4 +1,29 @@
 hexagon-project
 ===============
 
-Renovação do PHPSP
+## Inventário das redes sociais
+
+| Rede                                 | Administradores | Cordenadores     |
+|--------------------------------------|-----------------|------------------|
+| [Grupo do Facebook][facebook_group]  |  @duodraco, @hussani                            |                  |
+| [Página do Facebbok][facebook_page]  | @aleborba, @duodraco                           | @hussani   |
+| [Google+][google+]                                 |  @duodraco, @rogeriopradoj, @hussani  |                  |
+| [Youtube][youtube]                   | @duodraco, @rogeriopradoj, @hussani                 |                  |
+| [Linkedin Company][linkedin_company] |                 |                  |
+| [Linkedin Grupo][linkedin_group]     |                       |                  |
+| [Linkedin PHPSPCast][linkedin_cast]  |                    |                  |
+| [Twitter][twitter]                   |                 |                  |
+| [Meetup][meetup]                     | @duodraco         | @hussani , @rogeriopradoj |
+| [GitHub][github]                      |                 |                  |
+
+[facebook_group]: https://www.facebook.com/groups/sao.paulo.elephants/
+[facebook_page]: https://www.facebook.com/sao.paulo.elephants
+[youtube]: https://www.youtube.com/user/phpsp1
+[linkedin_company]: https://www.linkedin.com/company/phpsp---php-user-group-in-s-o-paulo
+[linkedin_group]: https://www.linkedin.com/groups/PHPSP-Grupo-Desenvolvedores-PHP-S%C3%A3o-1808119?gid=1808119&mostPopular=&trk=tyah&trkInfo=tarId%3A1406049175953%2Ctas%3Aphpsp%2Cidx%3A2-1-2
+[linkedin_cast]: https://www.linkedin.com/groups?gid=2056177&mostPopular=&trk=tyah&trkInfo=tarId%3A1406049207490%2Ctas%3Aphpsp%2Cidx%3A2-2-3
+[twitter]: https://twitter.com/phpsp
+[meetup]: http://www.meetup.com/php-sp/
+[github]: https://github.com/PHPSP
+[google+]: https://plus.google.com/communities/108495352672468069896
+
