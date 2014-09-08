@@ -1,6 +1,20 @@
 hexagon-project
 ===============
 
+## Inventário de Eventos e Locais para Eventos
+
+| Local  | Evento | Periodicidade | Stauts |
+|---------|------------|-------------------|-----------|
+| Google | Hangout da Comunidade | Ultima Quinta do Mês (???) | :heavy_check_mark: |
+| Google | PHPSP + TestFest | Indefinida | :heavy_check_mark: |
+| Season | PHPSP + Season (Palestas) | Primeira Terça do Mês | :heavy_check_mark: |
+| iMasters | PHPSP + Woman | Indefinida | :heavy_check_mark: |
+| Gibi | PHPSP + Pub | Segunda Quinta do Mês | :heavy_check_mark: |
+| PayPal | PHPSP + Docs | Indefinida |  |
+| Germinadora | PHPSP + Training | Indefinida |  |
+| Impacta  |  |  |  |
+| LQDI Digital  |  |  |
+
 ## Inventário das redes sociais
 
 | Rede                                 | Administradores | Cordenadores     |
