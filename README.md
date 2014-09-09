@@ -5,7 +5,7 @@ hexagon-project
 
 | Local  | Evento | Periodicidade | Stauts |
 |---------|------------|-------------------|-----------|
-| Google | Hangout da Comunidade | Ultima Quinta do Mês (???) | :heavy_check_mark: |
+| Google | Hangout da Comunidade | Ultima Quinta do Mês | :heavy_check_mark: |
 | Google | PHPSP + TestFest | Indefinida | :heavy_check_mark: |
 | Season | PHPSP + Season (Palestas) | Primeira Terça do Mês | :heavy_check_mark: |
 | iMasters | PHPSP + Woman | Indefinida | :heavy_check_mark: |
@@ -14,6 +14,8 @@ hexagon-project
 | Germinadora | PHPSP + Training | Indefinida |  |
 | Impacta  |  |  |  |
 | LQDI Digital  |  |  |
+
+> Todos os eventos são publicados e agendados no site [phpsp.org.br](http://phpsp.org.br/) e também no [meetup.com/php-sp](http://www.meetup.com/php-sp)
 
 ## Inventário das redes sociais
 
