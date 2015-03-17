@@ -29,7 +29,7 @@ hexagon-project
 | [Linkedin Grupo][linkedin_group]     |                                     |                           |
 | [Linkedin PHPSPCast][linkedin_cast]  |                                     |                           |
 | [Meetup][meetup]                     | @duodraco                           | @hussani, @rogeriopradoj  |
-| [Slack][slack]                       |                                     |                           |
+| [Slack][slack]                       | @diegocpires, @augustohp, @pauloelr, @hussani, @duodraco, @williamespindola, @rogeriopradoj |.|
 | [Twitter][twitter]                   |                                     |                           |
 | [Youtube][youtube]                   | @duodraco, @rogeriopradoj, @hussani |                           |
 
