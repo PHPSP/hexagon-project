@@ -19,18 +19,19 @@ hexagon-project
 
 ## Inventário das redes sociais
 
-| Rede                                 | Administradores | Cordenadores     |
-|--------------------------------------|-----------------|------------------|
-| [Grupo do Facebook][facebook_group]  |  @duodraco, @hussani                            |                  |
-| [Página do Facebbok][facebook_page]  | @aleborba, @duodraco                           | @hussani   |
-| [Google+][google+]                                 |  @duodraco, @rogeriopradoj, @hussani  |                  |
-| [Youtube][youtube]                   | @duodraco, @rogeriopradoj, @hussani                 |                  |
-| [Linkedin Company][linkedin_company] |                 |                  |
-| [Linkedin Grupo][linkedin_group]     |                       |                  |
-| [Linkedin PHPSPCast][linkedin_cast]  |                    |                  |
-| [Twitter][twitter]                   |                 |                  |
-| [Meetup][meetup]                     | @duodraco         | @hussani , @rogeriopradoj |
-| [GitHub][github]                      |                 |                  |
+| Rede                                 | Administradores                     | Cordenadores              |
+|--------------------------------------|-------------------------------------|---------------------------|
+| [Facebook Grupo][facebook_group]     | @duodraco, @hussani                 |                           |
+| [Facebbok Página][facebook_page]     | @aleborba, @duodraco                | @hussani                  |
+| [GitHub][github]                     |                                     |                           |
+| [Google+][google+]                   | @duodraco, @rogeriopradoj, @hussani |                           |
+| [Linkedin Company][linkedin_company] |                                     |                           |
+| [Linkedin Grupo][linkedin_group]     |                                     |                           |
+| [Linkedin PHPSPCast][linkedin_cast]  |                                     |                           |
+| [Meetup][meetup]                     | @duodraco                           | @hussani, @rogeriopradoj  |
+| [Slack][slack]                       | @diegocpires, @augustohp, @pauloelr, @hussani, @duodraco, @williamespindola, @rogeriopradoj |.|
+| [Twitter][twitter]                   |                                     |                           |
+| [Youtube][youtube]                   | @duodraco, @rogeriopradoj, @hussani |                           |
 
 [facebook_group]: https://www.facebook.com/groups/sao.paulo.elephants/
 [facebook_page]: https://www.facebook.com/sao.paulo.elephants
@@ -42,4 +43,4 @@ hexagon-project
 [meetup]: http://www.meetup.com/php-sp/
 [github]: https://github.com/PHPSP
 [google+]: https://plus.google.com/communities/108495352672468069896
-
+[slack]: https://phpsp.slack.com/
