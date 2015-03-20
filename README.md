@@ -3,35 +3,35 @@ hexagon-project
 
 ## Inventário de Eventos e Locais para Eventos
 
-| Local  | Evento | Periodicidade | Stauts |
-|---------|------------|-------------------|-----------|
-| Google | Hangout da Comunidade | Ultima Quinta do Mês | :heavy_check_mark: |
-| Google | PHPSP + TestFest | Indefinida | :heavy_check_mark: |
-| Season | PHPSP + Season (Palestas) | Primeira Terça do Mês | :heavy_check_mark: |
-| iMasters | PHPSP + Woman | Indefinida | :heavy_check_mark: |
-| Gibi | PHPSP + Pub | Segunda Quinta do Mês | :heavy_check_mark: |
-| PayPal | PHPSP + Docs | Indefinida |  |
-| Germinadora | PHPSP + Training | Indefinida |  |
-| Impacta  |  |  |  |
-| LQDI Digital  |  |  |
+| Evento                    | Local           | Periodicidade         | Stauts             |
+|---------------------------|-----------------|-----------------------|--------------------|
+| PHPSP + Pub               | Gibi            | Segunda Quinta do Mês | :heavy_check_mark: |
+| PHPSP + Season (Palestas) | Season          | Trimestral            | :heavy_check_mark: |
+| Hangout da Comunidade     | Google          |                       |                    |
+| PHPSP + TestFest          | Google          |                       |                    |
+| PHPSP + Woman             | iMasters        |                       |                    |
+| PHPSP + Docs              | PayPal          |                       |                    |
+| PHPSP + Training          | Germinadora     |                       |                    |
+|                           | Impacta         |                       |                    |
+|                           | LQDI Digital    |                       |                    |
 
-> Todos os eventos são publicados e agendados no site [phpsp.org.br](http://phpsp.org.br/) e também no [meetup.com/php-sp](http://www.meetup.com/php-sp)
+> Todos os eventos são publicados e agendados no no [meetup.com/php-sp](http://www.meetup.com/php-sp) e divulgados no [phpsp.org.br](http://phpsp.org.br/).
 
 ## Inventário das redes sociais
 
-| Rede                                 | Administradores                     | Cordenadores              |
-|--------------------------------------|-------------------------------------|---------------------------|
-| [Facebook Grupo][facebook_group]     | @duodraco, @hussani                 |                           |
-| [Facebbok Página][facebook_page]     | @aleborba, @duodraco                | @hussani                  |
-| [GitHub][github]                     |                                     |                           |
-| [Google+][google+]                   | @duodraco, @rogeriopradoj, @hussani |                           |
-| [Linkedin Company][linkedin_company] |                                     |                           |
-| [Linkedin Grupo][linkedin_group]     |                                     |                           |
-| [Linkedin PHPSPCast][linkedin_cast]  |                                     |                           |
-| [Meetup][meetup]                     | @duodraco                           | @hussani, @rogeriopradoj  |
-| [Slack][slack]                       | @diegocpires, @augustohp, @pauloelr, @hussani, @duodraco, @williamespindola, @rogeriopradoj |.|
-| [Twitter][twitter]                   |                                     |                           |
-| [Youtube][youtube]                   | @duodraco, @rogeriopradoj, @hussani |                           |
+| Rede                                 | Administradores                                                                             | Cordenadores              |
+|--------------------------------------|---------------------------------------------------------------------------------------------|---------------------------|
+| [Facebook Grupo][facebook_group]     | @duodraco, @hussani                                                                         |                           |
+| [Facebbok Página][facebook_page]     | @aleborba, @duodraco                                                                        | @hussani                  |
+| [GitHub][github]                     |                                                                                             |                           |
+| [Google+][google+]                   | @duodraco, @rogeriopradoj, @hussani                                                         |                           |
+| [Linkedin Company][linkedin_company] |                                                                                             |                           |
+| [Linkedin Grupo][linkedin_group]     |                                                                                             |                           |
+| [Linkedin PHPSPCast][linkedin_cast]  |                                                                                             |                           |
+| [Meetup][meetup]                     | @duodraco                                                                                   | @hussani, @rogeriopradoj  |
+| [Slack][slack]                       | @diegocpires, @augustohp, @pauloelr, @hussani, @duodraco, @williamespindola, @rogeriopradoj |                           |
+| [Twitter][twitter]                   |                                                                                             |                           |
+| [Youtube][youtube]                   | @duodraco, @rogeriopradoj, @hussani                                                         |                           |
 
 [facebook_group]: https://www.facebook.com/groups/sao.paulo.elephants/
 [facebook_page]: https://www.facebook.com/sao.paulo.elephants
